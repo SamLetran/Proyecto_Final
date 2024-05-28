@@ -57,6 +57,11 @@ ul li {
 
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 /*Este es el cuerpo*/
 main {
     width: 100%;
